@@ -1,6 +1,6 @@
 # Computer Vision
 
-This Table of Contents list the ever increasing number of Computer Vision C++ projects that I have created.
+This Table of Contents list the ever increasing number of C++ Computer Vision projects that I have created.
 
 ## OpenCV
 
